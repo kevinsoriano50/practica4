@@ -1,0 +1,22 @@
+*/ 
+
+ 
+
+#include<stdio.h> 
+
+#include <math.h> 
+
+int main() { 
+   int pago por hora
+   flot hora de trabajo, pago por hora de trabajo 
+   
+   paga por hora= hora de trabajo*paga por hora;
+
+    printf(paga por hora es: %f/n/n, hora de trabajo ); 
+
+ 
+return 0; 
+
+
+
+} 
